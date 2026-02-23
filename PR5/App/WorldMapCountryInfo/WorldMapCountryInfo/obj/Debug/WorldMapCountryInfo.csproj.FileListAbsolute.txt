@@ -1,0 +1,17 @@
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe.config
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.pdb
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.Core.dll
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.WindowsForms.dll
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.dll
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.xml
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.AssemblyReference.cache
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.Properties.Resources.resources
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.GenerateResource.cache
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.CoreCompileInputs.cache
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMap.235445B7.Up2Date
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.exe
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.pdb
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.exe.config
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\PerlRegex.dll
+Z:\pizda\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\UserAgentStringLibrary.dll
